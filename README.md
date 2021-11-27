@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Catatan 
+Persiapan sebelum mengembangkan code ini yaitu
+a. Pahami apa itu React JS , Stuktur, JSX in Depth
+b. Pahami EcmaScript (ES6) yang saya gunakan dari mulai deklarasi variable, arrow function, class, destructuring, rest & spread operator, promises, map & set, modules
+c. Pahami React : Component, cara buat component class, functional component, state anf props, lifecycle hooks, react hooks, styling on react, using ui framework, conditional readering.
+d. Advanced React : State Management, rounting in react router, backend service.
+
+## Mastering React JS 
+Project ini untuk explorasi front end dengan menggunakan React JS. Project ini bisa di kembangkan dan bisa untuk di pelajari bagi kalian para proggramer, maupun untuk komersil dengan catatan 35% harus di ubah fitur maupun tampilannya.
 ## Available Scripts
 
 In the project directory, you can run:
